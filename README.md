@@ -11,7 +11,7 @@ Welcome to Paradigm Network !
 The code is currently alpha quality, but is in the process of rapid development. The master code may be unstable; stable versions can be downloaded in the release page.
 
 ## Build development environment
-The requirements to build Paradigm are:
+The requirements to build Paradigm VM are:
 
 - Golang version 1.9 or later
 - Glide (a third party package management tool)
