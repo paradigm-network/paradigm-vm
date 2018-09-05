@@ -21,7 +21,7 @@ The requirements to build Paradigm VM are:
 ## Get Paradigm-vm
 ### Get from source code
 
-Clone the Paradigm-vm repository into the appropriate $GOPATH/src/github.com/paradigm-network directory.
+Clone the Paradigm-VM repository into the appropriate $GOPATH/src/github.com/paradigm-network directory.
 
 ```
 $ git clone --recursive https://github.com/paradigm-network/paradigm-vm.git
