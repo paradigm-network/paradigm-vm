@@ -7,10 +7,9 @@ package wasm_test
 import (
 	"bytes"
 	"io/ioutil"
+	"paradigm-vm/pvm/engine/wasm"
 	"path/filepath"
 	"testing"
-
-	"github.com/go-interpreter/wagon/wasm"
 )
 
 var testPaths = []string{
